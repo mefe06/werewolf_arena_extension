@@ -1,0 +1,9 @@
+# Virtual Environment
+venv/
+__pycache__/
+logs/
+node_modules/
+static/index.js
+.env
+*.json
+*.arrow
